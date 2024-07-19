@@ -1,0 +1,1 @@
+{"uuid":"1c78d528-06fd-40d0-930d-59f97ea0de7b","name":"com.jala.academy.pagetest.LoginTest","children":["85800319-7d22-4c7e-bc0c-4220585769f2"],"befores":[{"name":"loginTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1717751074062,"stop":1717751077875}],"afters":[],"start":1717751074036,"stop":1717751079828}
